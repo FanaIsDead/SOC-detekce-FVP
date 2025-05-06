@@ -10,9 +10,11 @@ Doporučuji si nejdříve celý notebook projít a zkusit mu porozumět, popří
 
 ### Problém s datasetem
 Při tvorbě programu jsem měl dataset nahraný na google drivu a proto se v programu nejdříve věnuji získání tohoto datasetu právě z google drive. Pokud bude dataset nahrán přímo do prostředí jako soubor, lze celý krok s načítáním google drivu přeskočit. V tom případě však bude třeba implementovat či pozměnit některé názvy souborů či adresářů. <br />
+Dataset také není nejlepší, v budoucnu plánuji model buďto přetrénovat, nebo vytvořit úplně nový s použitím datasetu, jenž obsahuje termovizní snímky. Termovizní snímky se totiž v oboru používají více a program by tak šel lépe rozšířit, třeba o detekci vad. <br />
 
 
-
+### Webová stránka
+V projektu se taktéž nachází webová stránka, která však zatím není hotová. Používá můj nejlepší model k tomu, aby na vloženém obrázku vyznačila oblasti s fotovoltaickými panely. Model však zatím spolehlivě funguje jenom pro snímky z datasetu a stránka není nijak graficky stylizovaná. V budoucnu plánuji doplnit funkcionalitu stránky, aby vyznačovala jednotlivé panely a ne jenom oblasti s nimi.
 
 
 
