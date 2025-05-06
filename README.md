@@ -1,4 +1,4 @@
-# SOČ - Automatická analýza fotovoltaických panelů ze snímků požízených dronem
+# SOČ - Automatická analýza fotovoltaických panelů ze snímků pořízených dronem
 Jedná se o projekt k středoškolské odborné činnosti, na kterém jsem pracoval v roce 2024/25. Tato práce se skládá ze dvou částí, z programu, jenž jsem nahrál sem na github a z dokumentační práce, která se nachází kdo ví kde. <br />
 
 ### Spouštění programu
