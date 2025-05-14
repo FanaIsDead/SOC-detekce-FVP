@@ -1,5 +1,5 @@
 # SOČ - Automatická analýza fotovoltaických panelů ze snímků pořízených dronem
-Jedná se o projekt k středoškolské odborné činnosti, na kterém jsem pracoval v roce 2024/25. Tato práce se skládá ze dvou částí, z programu, jenž jsem nahrál sem na github a z dokumentační práce, která se nachází kdo ví kde. <br />
+Jedná se o projekt k středoškolské odborné činnosti, na kterém jsem pracoval v roce 2024/25. Tato práce se skládá ze dvou částí, z programu, jenž jsem nahrál sem na github a z dokumentační práce, která se nachází taktéž zde na gitu (soubor socPraceHamrla.pdf). <br />
 
 ### Spouštění programu
 Pro správné spuštění programu je potřeba si stáhnout všechny soubory zde na gitu a dataset ze stránky https://www.kaggle.com/datasets/salimhammadi07/solar-panel-detection-and-identification. Hlavní kód se nachází v souboru s koncovkou .ipynb 
